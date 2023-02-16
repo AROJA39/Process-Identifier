@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Built-By: KMEDIN4
+Build-Jdk: 17.0.5
+Class-Path: lib/javalin-4.3.0.jar lib/slf4j-api-1.7.31.jar lib/jetty-ser
+ ver-9.4.44.v20210927.jar lib/javax.servlet-api-3.1.0.jar lib/jetty-http
+ -9.4.44.v20210927.jar lib/jetty-util-9.4.44.v20210927.jar lib/jetty-io-
+ 9.4.44.v20210927.jar lib/jetty-webapp-9.4.44.v20210927.jar lib/jetty-xm
+ l-9.4.44.v20210927.jar lib/jetty-servlet-9.4.44.v20210927.jar lib/jetty
+ -security-9.4.44.v20210927.jar lib/jetty-util-ajax-9.4.44.v20210927.jar
+  lib/websocket-server-9.4.44.v20210927.jar lib/websocket-common-9.4.44.
+ v20210927.jar lib/websocket-api-9.4.44.v20210927.jar lib/websocket-clie
+ nt-9.4.44.v20210927.jar lib/jetty-client-9.4.44.v20210927.jar lib/webso
+ cket-servlet-9.4.44.v20210927.jar lib/kotlin-stdlib-jdk8-1.5.31.jar lib
+ /kotlin-stdlib-1.5.31.jar lib/annotations-13.0.jar lib/kotlin-stdlib-co
+ mmon-1.5.31.jar lib/kotlin-stdlib-jdk7-1.5.31.jar lib/slf4j-simple-1.7.
+ 28.jar lib/jackson-databind-2.10.1.jar lib/jackson-annotations-2.10.1.j
+ ar lib/jackson-core-2.10.1.jar lib/commons-validator-1.7.jar lib/common
+ s-beanutils-1.9.4.jar lib/commons-digester-2.1.jar lib/commons-logging-
+ 1.2.jar lib/commons-collections-3.2.2.jar lib/json-20180130.jar lib/jun
+ it-platform-engine-1.8.1.jar lib/opentest4j-1.2.0.jar lib/junit-platfor
+ m-commons-1.8.1.jar lib/apiguardian-api-1.1.2.jar lib/junit-platform-la
+ uncher-1.2.0.jar lib/gson-2.8.0.jar
+Main-Class: co.com.msprocessidentifier.Init
+Created-By: Maven Integration for Eclipse
+
